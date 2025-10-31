@@ -15,7 +15,4 @@
    ```
 3. Open http://localhost:5173 (Vite default) and you will see the dashboard.
 
-## Why this matches Taiv
-- Frontend built in React + TypeScript similar to Taiv's web apps.
-- Real-time-like behavior and simple controls for venue screens.
-- Easy to extend to real Firebase and Cloud Functions later.
+
